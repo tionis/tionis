@@ -1,5 +1,5 @@
 ### Hi there 👋, I am tionis
-#### I am a internet computing student in germany
+#### I am an internet computing student in germany
 ![I am a internet computing student in germany](https://unsplash.com/photos/m_HRfLhgABo/download?force=true)
 
 There's not much to know about me. I'm currently writing on a few tiny projects next to my studies and am quite fond of stuff like decentralization and other ways to make the internet better for everyone.
