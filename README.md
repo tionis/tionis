@@ -13,7 +13,7 @@ Skills: GO / JAVA / JS / HTML / CSS
 - ⚡ Fun fact: I have no idea what I'm doing 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tionis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/TionisNagir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tasadar.net)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg' alt='github' height='40'>](mailto://tionis@tasadar.net)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tasadar.net)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tionis)](https://github.com/ryo-ma/github-profile-trophy)
 
